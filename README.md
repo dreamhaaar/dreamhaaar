@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**dreamhaaar/dreamhaaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=000000&width=500&lines=Hi,+I'm+Andrea+Mhar!+👋)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+I'm a Computer Science student at the Polytechnic University of the Philippines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm exploring the fascinating world of Natural Language Processing (NLP) and Large Language Models (LLMs) for my undergraduate thesis, while also building my skills in web and game development.
+
+### 🚀 About Me
+- 🔭 **Currently working on:** Improving my skills in state management and game logic in Godot and learning Laravel.
+- 🌱 **Currently learning:** Deeper mechanics of LLM architecture and Machine Learning techniques.
+- ⚡ I am just a curious cat
+
+### 📫 Let's Connect!
+- **LinkedIn:** [linkedin.com/in/andrea-mhar-de-leon](https://www.linkedin.com/in/andrea-mhar-de-leon/)
