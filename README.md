@@ -3,7 +3,7 @@
 
 I'm a Computer Science student at the Polytechnic University of the Philippines.
 
-Currently, I'm exploring the fascinating world of Natural Language Processing (NLP) and Large Language Models (LLMs) for my undergraduate thesis, while also building my skills in web and game development.
+Currently, I'm exploring the fascinating world of Natural Language Processing (NLP) and Large Language Models (LLMs) for my undergraduate thesis, while also building my skills in full-stack development.
 
 ### 🚀 About Me
 - 🔭 **Currently working on:** Improving my skills in state management and game logic in Godot and learning Laravel.
