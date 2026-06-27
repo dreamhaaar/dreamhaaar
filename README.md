@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFB7C5&width=500&lines=Hi,+I'm+Andrea+Mhar!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFB7C5&width=500&lines=Hi,+I'm+Andrea+Mhar!+😀)](https://git.io/typing-svg)
 
 I'm a Computer Science student at the Polytechnic University of the Philippines.
 
